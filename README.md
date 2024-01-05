@@ -1,5 +1,5 @@
-### PROYECTO GOD  23232143213
-material-kit-react
+### PROYECTO GESTOR DE INVENTARIO TIENDA UPTC
+
 ```
 ┌── .eslintrc.json
 ├── .gitignore

@@ -1,6 +1,6 @@
 ### PROYECTO GOD  23232143213
 material-kit-react
-
+```
 ┌── .eslintrc.json
 ├── .gitignore
 ├── CHANGELOG.md
@@ -32,20 +32,5 @@ material-kit-react
 		└──  auth
 			├── login.js
 			└── register.js
-```
 
-## Resources
 
-- More freebies like this one: <https://UPTC.io>
-
-## Reporting Issues:
-
-- [Github Issues Page](https://github.com/UPTC-io/react-material-dashboard/issues?ref=UPTC-io)
-
-## License
-
-- Licensed under MIT (https://github.com/UPTC-io/react-material-dashboard/blob/master/LICENSE.md)
-
-## Contact Us
-
-- Email Us: support@UPTCio.zendesk.com
